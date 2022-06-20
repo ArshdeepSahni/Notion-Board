@@ -1,0 +1,66 @@
+{
+  ".svelte-kit/build/index.js": {
+    "file": "index.js",
+    "src": ".svelte-kit/build/index.js",
+    "isEntry": true,
+    "imports": [
+      "_index-2b1c4163.js"
+    ]
+  },
+  "src/routes/__layout.svelte": {
+    "file": "entries/pages/__layout.svelte.js",
+    "src": "src/routes/__layout.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-2b1c4163.js",
+      "_Heading-2390e4f5.js"
+    ]
+  },
+  "src/routes/__error.svelte": {
+    "file": "entries/pages/__error.svelte.js",
+    "src": "src/routes/__error.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-2b1c4163.js"
+    ]
+  },
+  "src/routes/calories.svelte": {
+    "file": "entries/pages/calories.svelte.js",
+    "src": "src/routes/calories.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-2b1c4163.js",
+      "_Heading-2390e4f5.js",
+      "_Divider-0f1823aa.js"
+    ]
+  },
+  "src/routes/meals.svelte": {
+    "file": "entries/pages/meals.svelte.js",
+    "src": "src/routes/meals.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-2b1c4163.js",
+      "_Heading-2390e4f5.js",
+      "_Divider-0f1823aa.js"
+    ],
+    "css": [
+      "assets/entries/pages/meals.svelte-4e51dc89.css"
+    ]
+  },
+  "_index-2b1c4163.js": {
+    "file": "chunks/index-2b1c4163.js"
+  },
+  "_Heading-2390e4f5.js": {
+    "file": "chunks/Heading-2390e4f5.js",
+    "imports": [
+      "_index-2b1c4163.js"
+    ]
+  },
+  "_Divider-0f1823aa.js": {
+    "file": "chunks/Divider-0f1823aa.js",
+    "imports": [
+      "_index-2b1c4163.js",
+      "_Heading-2390e4f5.js"
+    ]
+  }
+}
