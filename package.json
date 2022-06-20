@@ -33,7 +33,6 @@
     "@capacitor/geolocation": "^1.0.2",
     "@fontsource/fira-mono": "^4.5.0",
     "@lukeed/uuid": "^2.0.0",
-    "@supabase/supabase-js": "^1.29.1",
     "@sveltejs/adapter-static": "^1.0.0-next.29",
     "axios": "^0.21.4",
     "cookie": "^0.4.1",
